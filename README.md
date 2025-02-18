@@ -3,7 +3,7 @@ A Transformer-based Method for Correcting Daily SST Numerical Forecasting produc
 
 ## Project Description:
 
-This project proposes a Transformer-based method for revising daily sea surface temperature (SST) numerical forecast products. Traditional SST forecasting methods usually face problems such as model errors and insufficient observational data, etc. This project adopts the advanced Transformer structure and combines spatio-temporal features for data revision and accuracy improvement. With this method, it aims to improve the accuracy and reliability of numerical forecast products, especially in the fields of marine environment monitoring, climate prediction and navigation safety, which have a wide range of application prospects.
+This project presents a Transformer-based approach for correcting daily sea surface temperature (SST) numerical forecast products. Traditional SST forecasting methods often suffer from model errors and limited observational data. By leveraging the advanced Transformer architecture and integrating spatio-temporal features, this approach aims to enhance the accuracy and reliability of numerical forecasts. The method holds significant potential for applications in marine environment monitoring, climate prediction, and navigation safety.
 
 ## Project structure:
 
