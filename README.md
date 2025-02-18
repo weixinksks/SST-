@@ -6,6 +6,8 @@ A Transformer-based Method for Correcting Daily SST Numerical Forecasting produc
 
 项目结构：
 
+
+
 /code                          # 代码部分
 |-- /model                      # Transformer模型的实现，包含网络架构、训练过程等
 |-- /data_processing            # 数据预处理和增强代码，包含数据加载、标准化等操作
@@ -16,4 +18,3 @@ A Transformer-based Method for Correcting Daily SST Numerical Forecasting produc
 |-- /raw                        # 原始SST数据集，包括ERA5再分析数据等
 |-- /processed                  # 处理后的数据集，用于训练和验证
 |-- /augmentation               # 数据增强文件，提供数据扩展或扰动方法
-
